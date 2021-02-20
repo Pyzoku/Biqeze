@@ -1,1 +1,7 @@
 
+[
+	{
+		"url": "https://my.telegram.org/auth/send_password",
+		"json": "{'phone':'+%phone%'}"
+	},
+]
